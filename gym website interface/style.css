@@ -1,0 +1,48 @@
+li,h1,ul{
+    display: inline;
+}
+
+ul{
+    margin-left: 20%;
+}
+
+li{
+    margin-left: 2px;
+    color: orange;
+    padding: 10px;
+}
+
+li:hover{
+    background-color: black;
+    cursor: pointer;
+}
+
+.content{
+    margin: 200px;
+    color: whitesmoke;
+}
+
+.member:hover{
+        color: black;
+        cursor: pointer;
+}
+
+.registration{
+    margin: 20px;
+    text-align: center;
+}
+
+.details{
+    color: white;
+    margin-left: 500px;
+    text-align: center;
+    }
+
+.contact{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    background-color: gray;
+    padding: 5px;
+
+}
